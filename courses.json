@@ -3,17 +3,128 @@
         {
             "year_level": "1st",
             "sem": "1st",
+            "code": "IT111",
+            "description": "Introduction to Computing",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "1st",
+            "sem": "1st",
             "code": "IT112",
-            "description": "Computer Programming 1",
+            "description": "Computer Programming",
             "credit": "3.0"
         },
         {
             "year_level": "1st",
             "sem": "2nd",
             "code": "IT113",
-            "description": "Computer Programming 2",
+            "description": "Object-Oriented Programming",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "2nd",
+            "sem": "1st",
+            "code": "IT211",
+            "description": "Data Structures and Algorithms",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "2nd",
+            "sem": "1st",
+            "code": "IT212",
+            "description": "Fundamentals of Database Systems",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "2nd",
+            "sem": "2nd",
+            "code": "IT213",
+            "description": "Web Systems",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "2nd",
+            "sem": "2nd",
+            "code": "IT214",
+            "description": "Human-Computer Interaction",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "3rd",
+            "sem": "1st",
+            "code": "IT311",
+            "description": "Information Management",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "3rd",
+            "sem": "1st",
+            "code": "IT312",
+            "description": "Networking 1",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "3rd",
+            "sem": "2nd",
+            "code": "IT313",
+            "description": "Networking 2",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "3rd",
+            "sem": "2nd",
+            "code": "IT314",
+            "description": "Software Engineering",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "4th",
+            "sem": "1st",
+            "code": "IT411",
+            "description": "IT Elective 1",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "4th",
+            "sem": "1st",
+            "code": "IT412",
+            "description": "IT Elective 2",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "4th",
+            "sem": "1st",
+            "code": "IT413",
+            "description": "Information Assurance and Security",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "4th",
+            "sem": "1st",
+            "code": "IT414",
+            "description": "IT Capstone Project 1",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "4th",
+            "sem": "2nd",
+            "code": "IT415",
+            "description": "Integrative Programming and Technologies",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "4th",
+            "sem": "2nd",
+            "code": "IT416",
+            "description": "Applications Development and Emerging Technologies",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "4th",
+            "sem": "2nd",
+            "code": "IT417",
+            "description": "Quantitative Methods",
             "credit": "3.0"
         }
-      
     ]
 }
